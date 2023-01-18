@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## ✨ABOUT ME✨
+Aspiring Data Scientist with 1.8+ years of IT working experience and 1+ years of Data Science experience, 🤔seeking a transition to utilize my skills and abilities in the Data Science industry that offers professional growth while being resourceful, innovative, and flexible. Expertise in developing  End-to-End applications on Machine Learning, Deep Learning, and Python.
+
+## 📫 How to reach me:
+Email: raviteja.vvss99@gmail.com
+Mobile: +91-9092942699
+LinkedIn: https://www.linkedin.com/in/raviteja-mandarapu/
+
 <!--
 **MANDARAPURAVITEJA/MANDARAPURAVITEJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
