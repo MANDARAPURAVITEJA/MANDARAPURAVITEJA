@@ -3,7 +3,7 @@
 ### ✨ABOUT ME✨
 I am an Aspiring Data Scientist with 1.8+ years of IT👨‍💻 working experience and 1+ years of Data Science experience🧠. Expertise in developing End-to-End applications on Machine Learning🤖, Deep Learning🧠, and Python🐍. Currently working as a Junior Software Engineer at Cognizant. 
  
-🦾 Achievement driven professional seeking for a transition to utilize my skills and abilities in the Data Science industry that offers professional growth while being resourceful, innovative, and flexible.
+🦾 Achievement driven professional seeking for a transition to utilize my skills and abilities in the Data industry that offers professional growth while being resourceful, innovative, and flexible.
 
 ### 📫 How to reach me:
 Email: raviteja.vvss99@gmail.com
