@@ -7,8 +7,9 @@ I am an Aspiring Data Scientist with 1.8+ years of IT👨‍💻 working experie
 
 ![](https://komarev.com/ghpvc/?username=MANDARAPURAVITEJA&color=orange)
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MANDARAPURAVITEJA&label=Profile%20views&color=0e75b6&style=flat" alt="MANDARAPURAVITEJA" /> </p>
-
+-->
 ### 📫 How to reach me:
 Email: raviteja.vvss99@gmail.com
 
