@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my GitHub profile🔭
-<img src="Raviteja Mandarapu.png" alt="cover" height="300" width=auto/> 
+<img src="Raviteja Mandarapu_cover.png" alt="cover" /> 
 ### ✨ABOUT ME✨
 
  Accomplished Data Scientist with a passion for delivering valuable data through analytical functions and dataretrieval methods. Committed to helping companies advance by helping them to develop strategic plans basedon predictive modeling and findings. Bringing forth a proven track record of analyzing complex data sets andserving as a strong advisor.
