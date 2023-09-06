@@ -6,7 +6,7 @@
 
  Accomplished Data Scientist with a passion for delivering valuable data through analytical functions and dataretrieval methods. Committed to helping companies advance by helping them to develop strategic plans basedon predictive modeling and findings. Bringing forth a proven track record of analyzing complex data sets andserving as a strong advisor.
 
-🦾 Achievement-driven professional with an experience👨‍💻 of 1.8+ years in the Data Science field🧠. Experience in building End-to-End applications with AI, Machine Learning🤖, Deep Learning🧠, and Python🐍. Performing Innovations and designing models for various projects throughout the year.
+🦾 Achievement-driven professional expertize👨‍💻 in building End-to-End applications with AI, Machine Learning🤖, Deep Learning🧠, and Python🐍. Performing Innovations and designing models for various projects throughout the year.
 
 <!--![](https://komarev.com/ghpvc/?username=MANDARAPURAVITEJA&color=orange)-->
 
