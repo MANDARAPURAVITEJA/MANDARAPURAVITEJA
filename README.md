@@ -23,8 +23,6 @@
 ### 📫 How to reach me:
 Email: raviteja.vvss99@gmail.com
 
-Mobile: +91-9092942699
-
 LinkedIn: https://www.linkedin.com/in/raviteja-mandarapu/
 
 <!--
